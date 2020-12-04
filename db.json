@@ -1,0 +1,44 @@
+{
+  "automoviles": [
+    {
+      "id": 6,
+      "titulo": "asdas",
+      "transaccion": "venta",
+      "descripcion": "asd",
+      "precio": "4",
+      "puertas": "4",
+      "kms": "4",
+      "potencia": "4"
+    },
+    {
+      "id": 7,
+      "titulo": "asdas",
+      "transaccion": "venta",
+      "descripcion": "asd",
+      "precio": "5",
+      "puertas": "5",
+      "kms": "5",
+      "potencia": "5"
+    },
+    {
+      "id": 9,
+      "titulo": "asd",
+      "transaccion": "venta",
+      "descripcion": "asd",
+      "precio": "5",
+      "puertas": "5",
+      "kms": "5",
+      "potencia": "5"
+    },
+    {
+      "id": 10,
+      "titulo": "asd",
+      "transaccion": "venta",
+      "descripcion": "asd",
+      "precio": "4",
+      "puertas": "4",
+      "kms": "4",
+      "potencia": "4"
+    }
+  ]
+}
